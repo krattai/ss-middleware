@@ -1,0 +1,10 @@
+Based on example php code from SunSky openAPI:
+
+php_curl is used, so needs to be enabled on host
+
+sudo apt-get install php5-curl
+
+
+Also, OpenApiService::download($apiUrl, $secret, $parameters, $path); uses unzip
+
+sudo apt-get install unzip
