@@ -1,0 +1,5 @@
+Magento is one ecommerce platform that includes an API accessible via SOAP or RPC:
+
+http://www.magentocommerce.com/api/soap/introduction.html
+
+
