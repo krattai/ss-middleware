@@ -1,0 +1,12 @@
+Limited doc/ref of OpenApiService:
+http://www.sunsky-online.com/base/doc!view.do?code=openapi
+
+The SS/SU (Sun-Sky / Sun-USB) file format is JSON (or JSON like; but most likely JSON, although doc and ref info is extremely limited, so inconclusive)
+
+The use case is to request initial data from SS/SU and store in local database.
+
+The data can be referenced in "real-time" on the web app, although this could be very resource intensive, so utlizing a local dataset is likely more effective and efficient.
+
+Once items have been selected for aquisition, a request to get prices and shipping costs would be made to SS/SU.  This seems a little counter intuitive for prices, as they should already be current and local, although it would be good use to ensure prices had not changed.
+
+Finally, on order confirmaation, the order would be submitted to SS/SU for processing.
