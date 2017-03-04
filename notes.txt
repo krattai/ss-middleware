@@ -1,0 +1,1 @@
+Current focus for middleware is ITOP, OTRS::ITSM, and Odoo
