@@ -1,3 +1,5 @@
 The opportunity to allow the middleware to connect between any definable, or perhaps undefinable data and software is what drives this project.
 
 In the same vein as the "black anything box", this middleware should hopefully assist anyone, n00b or xp3rt to connect pieces together to simply and mostly painlessly develop system that will fit their needs.
+
+Need to look at databases and do a needs assesment to determine what needs to collected and how it shoul be presented.
