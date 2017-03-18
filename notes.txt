@@ -1,1 +1,3 @@
 Current focus for middleware is ITOP, OTRS::ITSM, and Odoo
+
+May wish to use some version of MQTT for communication between hosts and applications
